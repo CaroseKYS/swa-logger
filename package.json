@@ -1,6 +1,6 @@
 {
   "name": "swa-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "应用于swa平台或者其他任意场景的日志中间件。",
   "main": "index.js",
   "directories": {
